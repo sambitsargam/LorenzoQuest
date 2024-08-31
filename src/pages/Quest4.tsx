@@ -75,15 +75,6 @@ const Quest4: React.FC = () => {
       setTelegramVerified(true);
     }
   }, [])
-
-  const handleTelegramClick = () => {
-    setTimeout(() => {
-      setTelegramClicked(true);
-      setTelegramVerified(true);
-    }, 5000);
-    localStorage.setItem('telegramTaskCompleted', 'true');
-  };
-
   
 
   
