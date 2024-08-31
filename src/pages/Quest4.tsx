@@ -71,7 +71,7 @@ const Quest4: React.FC = () => {
   useEffect(() => {
     const isTelegramVerified = localStorage.getItem('telegramVerified4');
     if (isTelegramVerified === 'true') {
-      //setTelegramClicked(true);
+      setTelegramClicked(true);
       setTelegramVerified(true);
     }
   }, [])
