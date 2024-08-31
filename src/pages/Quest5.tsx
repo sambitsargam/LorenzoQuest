@@ -153,7 +153,7 @@ const Quest5: React.FC = () => {
       <Header />
       <div className="flex rounded-lg p-6 m-10 shadow-md text-white font-quicksand">
         <div className="w-4/5 pr-5 border-r border-gray-500">
-          <h2 className="text-3xl font-bold pt-5 mb-4">Quest 5 : Try  Try Pegasus Explorer API</h2>
+          <h2 className="text-3xl font-bold pt-5 mb-4">Quest 5 : Try Lorenzo Protocol  Explorer API</h2>
           <div className="bg-gray-800 task-item mb-4 border-white-800 p-5 rounded-lg flex items-center text-lg font-semibold transition duration-300 ease-in-out transform hover:scale-105 hover:border-white-500 hover:shadow-md hover:border">
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Icon" className="w-auto h-7" />
             <p className="ml-3">Go to Try Pegasus Explore and review your information</p>

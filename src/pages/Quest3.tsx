@@ -160,7 +160,7 @@ const Quest3: React.FC = () => {
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Icon" className="w-auto h-7" />
             <p className="ml-3">Official bridge of min 10$</p>
             <div className="ml-auto">
-              <a href="https://bridge.lightlink.io/bridge?from=ETHEREUM&to=LIGHTLINK&token=ETH" target="_blank" rel="noopener noreferrer">
+              <a href="https://app.lorenzo-protocol.xyz/bridgestBTC" target="_blank" rel="noopener noreferrer">
                 <button
                   className={`task-button ml-auto bg-blue-500 text-white font-semibold py-2 px-4 rounded 
                     ${
@@ -185,9 +185,9 @@ const Quest3: React.FC = () => {
 
           <div className="bg-gray-800 task-item mb-4 border-white-800 p-5 rounded-lg flex items-center text-lg font-semibold transition duration-300 ease-in-out transform hover:scale-105 hover:border-white-500 hover:shadow-md hover:border">
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Icon" className="w-auto h-6" />
-            <span className="ml-3">Swap between any two coins on LightLink</span>
+            <span className="ml-3">Swap stBTCH on Lorenzo</span>
             <div className="ml-auto">
-              <a href="https://bridge.lightlink.io/bridge?from=ETHEREUM&to=LIGHTLINK&token=ETH" target="_blank" rel="noopener noreferrer">
+              <a href="https://app.lorenzo-protocol.xyz/bridgestBTC" target="_blank" rel="noopener noreferrer">
                 <button
                   className={`task-button ml-auto bg-blue-500 text-white font-semibold py-2 px-4 rounded 
                     ${
@@ -212,9 +212,9 @@ const Quest3: React.FC = () => {
 
           <div className="bg-gray-800 task-item mb-4 border-white-800 p-5 rounded-lg flex items-center text-lg font-semibold transition duration-300 ease-in-out transform hover:scale-105 hover:border-white-500 hover:shadow-md hover:border">
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Icon" className="w-8 h-8" />
-            <span className="ml-3">Bridge multiple assets</span>
+            <span className="ml-3">Staking on stBTC</span>
             <div className="ml-auto">
-              <a href="https://bridge.lightlink.io/bridge" target="_blank" rel="noopener noreferrer">
+              <a href="https://app.lorenzo-protocol.xyz/staking" target="_blank" rel="noopener noreferrer">
                 <button
                   className={`task-button ml-auto bg-blue-500 text-white font-semibold py-2 px-4 rounded 
                     ${
@@ -239,10 +239,10 @@ const Quest3: React.FC = () => {
 
           <div className="bg-gray-800 task-item mb-4 border-white-800 p-5 rounded-lg flex items-center text-lg font-semibold transition duration-300 ease-in-out transform hover:scale-105 hover:border-white-500 hover:shadow-md hover:border">
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Icon" className="w-auto h-7" />
-            <p className="ml-3">Make a total volume of 100$ ( any, swap, bridge) 
+            <p className="ml-3">Make a total volume of 100$ ( swap, bridge) 
 </p>
             <div className="ml-auto">
-              <a href="https://bridge.lightlink.io/bridge" target="_blank" rel="noopener noreferrer">
+              <a href="https://app.lorenzo-protocol.xyz/" target="_blank" rel="noopener noreferrer">
                 <button
                   className={`task-button ml-auto bg-blue-500 text-white font-semibold py-2 px-4 rounded 
                     ${
