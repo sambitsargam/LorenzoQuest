@@ -17,10 +17,6 @@ const weiToeth = (wei: string): BigNumber => {
   return weiValue.dividedBy(ethInWei);
 };
 
-const shortenAddress = (address: string): string => {
-  const prefix = address.slice(0, 18);
-  return `${prefix}...`;
-};
 
 const Last10Transactions: React.FC<Last10TransactionsProps> = ({ transactions }) => {
   const [currentDate, setCurrentDate] = useState<number | null>(null);
