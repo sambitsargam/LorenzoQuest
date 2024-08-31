@@ -67,6 +67,7 @@ const Last10Transactions: React.FC<Last10TransactionsProps> = ({ transactions })
   const toggleDisplayAge = () => {
     setDisplayAgeAsTimestamp(!displayAgeAsTimestamp);
   };
+  console.log(ethereumPrice);
 
   const last10Transactions = transactions.slice(-10).reverse(); // Get the last 10 transactions and reverse the order
 
