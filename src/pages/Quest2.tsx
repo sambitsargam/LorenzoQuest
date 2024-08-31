@@ -152,12 +152,12 @@ const Quest2: React.FC = () => {
       <Header />
       <div className="flex rounded-lg p-6 m-10 shadow-md text-white font-quicksand">
         <div className="w-4/5 pr-5 border-r border-gray-500">
-          <h2 className="text-3xl font-bold pt-5 mb-4">Quest 2 : Learn More About LighLink Hackathon</h2>
+          <h2 className="text-3xl font-bold pt-5 mb-4">Quest 2 : Learn More About Lorenzo Protocol</h2>
           <div className="bg-gray-800 task-item mb-4 border-white-800 p-5 rounded-lg flex items-center text-lg font-semibold transition duration-300 ease-in-out transform hover:scale-105 hover:border-white-500 hover:shadow-md hover:border">
             <img src="../../img/youtube.svg" alt="Ytube" className="w-auto h-7" />
-            <p className="ml-3">Subscribe & Learn @encodeclub on Youtube</p>
+            <p className="ml-3">Subscribe & Learn @Lorenzo on Youtube</p>
             <div className="ml-auto">
-              <a href="https://www.youtube.com/@encodeclub?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.youtube.com/@LorenzoProtocol" target="_blank" rel="noopener noreferrer">
                 <button
                   className={`task-button ml-auto bg-blue-500 text-white font-semibold py-2 px-4 rounded 
                     ${
@@ -182,9 +182,9 @@ const Quest2: React.FC = () => {
 
           <div className="bg-gray-800 task-item mb-4 border-white-800 p-5 rounded-lg flex items-center text-lg font-semibold transition duration-300 ease-in-out transform hover:scale-105 hover:border-white-500 hover:shadow-md hover:border">
             <img src="https://img.freepik.com/free-vector/www-internet-globe-grid_78370-2008.jpg" alt="medium" className="w-auto h-6" />
-            <span className="ml-3">Visit Blog & get News about LightLink</span>
+            <span className="ml-3">Visit Official Website</span>
             <div className="ml-auto">
-              <a href="https://www.lightlink.io/blog" target="_blank" rel="noopener noreferrer">
+              <a href="hhttps://www.lorenzo-protocol.xyz/" target="_blank" rel="noopener noreferrer">
                 <button
                   className={`task-button ml-auto bg-blue-500 text-white font-semibold py-2 px-4 rounded 
                     ${
@@ -203,9 +203,9 @@ const Quest2: React.FC = () => {
 
           <div className="bg-gray-800 task-item mb-4 border-white-800 p-5 rounded-lg flex items-center text-lg font-semibold transition duration-300 ease-in-out transform hover:scale-105 hover:border-white-500 hover:shadow-md hover:border">
             <img src="https://img.freepik.com/free-vector/www-internet-globe-grid_78370-2008.jpg" alt="site" className="w-8 h-8" />
-            <span className="ml-3">Visit Lorenzo homepage</span>
+            <span className="ml-3">Read about Lorenzo Layer</span>
             <div className="ml-auto">
-              <a href="https://www.lightlink.io/" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.lorenzo-protocol.xyz/#management" target="_blank" rel="noopener noreferrer">
                 <button
                   className={`task-button ml-auto bg-blue-500 text-white font-semibold py-2 px-4 rounded 
                     ${
@@ -230,9 +230,9 @@ const Quest2: React.FC = () => {
 
           <div className="bg-gray-800 task-item mb-4 border-white-800 p-5 rounded-lg flex items-center text-lg font-semibold transition duration-300 ease-in-out transform hover:scale-105 hover:border-white-500 hover:shadow-md hover:border">
             <img src="https://img.freepik.com/free-vector/www-internet-globe-grid_78370-2008.jpg" alt="Site" className="w-auto h-7" />
-            <p className="ml-3">Read Whitepaper of LightLink</p>
+            <p className="ml-3">Learn from Architecture of lorenzo</p>
             <div className="ml-auto">
-              <a href="https://lightlink-assets.s3.ap-southeast-1.amazonaws.com/docs/LightLink+Whitepaper+V2.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="https://docs.lorenzo-protocol.xyz/introduction/architecture" target="_blank" rel="noopener noreferrer">
                 <button
                   className={`task-button ml-auto bg-blue-500 text-white font-semibold py-2 px-4 rounded 
                     ${
@@ -249,7 +249,7 @@ const Quest2: React.FC = () => {
                     }}
                   disabled={repostClicked}
                 >
-                  {repostClicked ? (repostVerified ? 'Verified' : 'Verifying...') : 'Repost'}
+                  {repostClicked ? (repostVerified ? 'Verified' : 'Verifying...') : 'Read'}
                 </button>
               </a>
             </div>

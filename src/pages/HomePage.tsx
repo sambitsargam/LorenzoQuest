@@ -82,7 +82,7 @@ const HomePage: React.FC = () => {
                             QUEST 2
                           </h3>
                           <p className="text-md font-semibold text-gray-600 dark:text-white hover:text-blue-500 transition-colors duration-300 opacity-60">
-                            Learn About LightLink
+                            Learn About Lorenzo Protocol
                           </p>
                         </a>
                         <h4 className="mb-0 text-sm font-semibold text-gray-400 dark:text-white-500 pt-1">70 XPs</h4>
