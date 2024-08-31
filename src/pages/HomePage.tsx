@@ -161,7 +161,7 @@ const HomePage: React.FC = () => {
                             QUEST 5
                           </h3>
                           <p className="text-md font-semibold text-gray-600 dark:text-white hover:text-blue-500 transition-colors duration-300 opacity-60">
-                            Try Pegasus Explorer API
+                            Try Lorenzo Explorer API
                           </p>
                         </a>
                         <h4 className="mb-0 text-sm font-semibold text-gray-400 dark:text-white-500 pt-1">60 XPs</h4>
@@ -187,7 +187,7 @@ const HomePage: React.FC = () => {
                             QUEST 6
                           </h3>
                           <p className="text-md font-semibold text-gray-600 dark:text-white hover:text-blue-500 transition-colors duration-300 opacity-60">
-                            Explore Enterprises Mode
+                            Explore Lorenzo Staking
                           </p>
                         </a>
                         <h4 className="mb-0 text-sm font-semibold text-gray-400 dark:text-white-500 pt-1">70 XPs</h4>
@@ -239,7 +239,7 @@ const HomePage: React.FC = () => {
                             QUEST 8
                           </h3>
                           <p className="text-md font-semibold text-gray-600 dark:text-white hover:text-blue-500 transition-colors duration-300 opacity-60">
-                            Spread LightLink
+                            Spread about Bitcoin Hackathon
                           </p>
                         </a>
                         <h4 className="mb-0 text-sm font-semibold text-gray-400 dark:text-white-500 pt-1">70 XPs</h4>

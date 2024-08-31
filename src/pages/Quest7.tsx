@@ -145,12 +145,12 @@ const Quest7: React.FC = () => {
       <Header />
       <div className="flex rounded-lg p-6 m-10 shadow-md text-white font-quicksand">
         <div className="w-4/5 pr-5 border-r border-gray-500">
-          <h2 className="text-3xl font-bold pt-5 mb-4">Quest 7 : Deploy a Contract</h2>
+          <h2 className="text-3xl font-bold pt-5 mb-4">Quest 7 : Set up a Node</h2>
           <div className="bg-gray-800 task-item mb-4 border-white-800 p-5 rounded-lg flex items-center text-lg font-semibold transition duration-300 ease-in-out transform hover:scale-105 hover:border-white-500 hover:shadow-md hover:border">
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Icon" className="w-auto h-7" />
-            <p className="ml-3">Read the documentation on setting up Lorenzo Chain</p>
+            <p className="ml-3">Read the documentation on setting up Lorenzo Node</p>
             <div className="ml-auto">
-              <a href="https://docs.lightlink.io/lightlink-protocol/using-lightlink/connecting-a-wallet" target="_blank" rel="noopener noreferrer">
+              <a href="https://docs.lorenzo-protocol.xyz/user-guides/set-up-a-node" target="_blank" rel="noopener noreferrer">
                 <button
                   className={`task-button ml-auto bg-blue-500 text-white font-semibold py-2 px-4 rounded 
                     ${
@@ -175,9 +175,9 @@ const Quest7: React.FC = () => {
 
           <div className="bg-gray-800 task-item mb-4 border-white-800 p-5 rounded-lg flex items-center text-lg font-semibold transition duration-300 ease-in-out transform hover:scale-105 hover:border-white-500 hover:shadow-md hover:border">
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Icon" className="w-auto h-6" />
-            <span className="ml-3">Connect Metamask to Lorenzo Testnet or Mainnet</span>
+            <span className="ml-3">Download Go Language</span>
             <div className="ml-auto">
-              <a href="https://chainlist.org/?search=lightlink&testnets=true" target="_blank" rel="noopener noreferrer">
+              <a href="https://go.dev/doc/install" target="_blank" rel="noopener noreferrer">
                 <button
                   className={`task-button ml-auto bg-blue-500 text-white font-semibold py-2 px-4 rounded 
                     ${
@@ -202,9 +202,9 @@ const Quest7: React.FC = () => {
 
           <div className="bg-gray-800 task-item mb-4 border-white-800 p-5 rounded-lg flex items-center text-lg font-semibold transition duration-300 ease-in-out transform hover:scale-105 hover:border-white-500 hover:shadow-md hover:border">
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Icon" className="w-8 h-8" />
-            <span className="ml-3">Write SmartContract on Remix or Hardhat by Explore the Docs</span>
+            <span className="ml-3">Learn about Rewards and Points            </span>
             <div className="ml-auto">
-              <a href="https://docs.lightlink.io/lightlink-protocol/tools-for-developers/ides" target="_blank" rel="noopener noreferrer">
+              <a href="https://docs.lorenzo-protocol.xyz/faq/rewards-and-points" target="_blank" rel="noopener noreferrer">
                 <button
                   className={`task-button ml-auto bg-blue-500 text-white font-semibold py-2 px-4 rounded 
                     ${
@@ -229,9 +229,9 @@ const Quest7: React.FC = () => {
 
           <div className="bg-gray-800 task-item mb-4 border-white-800 p-5 rounded-lg flex items-center text-lg font-semibold transition duration-300 ease-in-out transform hover:scale-105 hover:border-white-500 hover:shadow-md hover:border">
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Icon" className="w-auto h-7" />
-            <p className="ml-3">Deployed the Contract</p>
+            <p className="ml-3">Deploy Lorenzo Relayer</p>
             <div className="ml-auto">
-              <a href="https://docs.lightlink.io/lightlink-protocol/tools-for-developers/deployed-contracts" target="_blank" rel="noopener noreferrer">
+              <a href="https://docs.lorenzo-protocol.xyz/user-guides/set-up-a-node#id-3.-deploy-lorenzo-relayer" target="_blank" rel="noopener noreferrer">
                 <button
                   className={`task-button ml-auto bg-blue-500 text-white font-semibold py-2 px-4 rounded 
                     ${

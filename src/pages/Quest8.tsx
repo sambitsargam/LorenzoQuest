@@ -150,7 +150,7 @@ const Quest8: React.FC = () => {
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Icon" className="w-auto h-7" />
             <p className="ml-3">Visit Lorenzo Blog Page and read any one Blog</p>
             <div className="ml-auto">
-              <a href="https://www.lightlink.io/blog" target="_blank" rel="noopener noreferrer">
+              <a href="#" target="_blank" rel="noopener noreferrer">
                 <button
                   className={`task-button ml-auto bg-blue-500 text-white font-semibold py-2 px-4 rounded 
                     ${
@@ -175,9 +175,9 @@ const Quest8: React.FC = () => {
 
           <div className="bg-gray-800 task-item mb-4 border-white-800 p-5 rounded-lg flex items-center text-lg font-semibold transition duration-300 ease-in-out transform hover:scale-105 hover:border-white-500 hover:shadow-md hover:border">
             <img src="https://images.squarespace-cdn.com/content/v1/5f9bcc27c14fc6134658484b/ca939fe9-3ec3-45a8-9031-ced992da1a16/Encode_icon_white_01-01_3.png" alt="Icon" className="w-auto h-6" />
-            <span className="ml-3">Visit Encode Club Blog Page and read any one Blog</span>
+            <span className="ml-3">Medium Blogs</span>
             <div className="ml-auto">
-              <a href="https://www.blog.encode.club/" target="_blank" rel="noopener noreferrer">
+              <a href="#" target="_blank" rel="noopener noreferrer">
                 <button
                   className={`task-button ml-auto bg-blue-500 text-white font-semibold py-2 px-4 rounded 
                     ${
@@ -202,9 +202,9 @@ const Quest8: React.FC = () => {
 
           <div className="bg-gray-800 task-item mb-4 border-white-800 p-5 rounded-lg flex items-center text-lg font-semibold transition duration-300 ease-in-out transform hover:scale-105 hover:border-white-500 hover:shadow-md hover:border">
             <img src="https://images.squarespace-cdn.com/content/v1/5f9bcc27c14fc6134658484b/ca939fe9-3ec3-45a8-9031-ced992da1a16/Encode_icon_white_01-01_3.png" alt="Icon" className="w-8 h-8" />
-            <span className="ml-3">Follow @encodeclub on X</span>
+            <span className="ml-3">Follow @bitcoinstartuplab on X</span>
             <div className="ml-auto">
-              <a href="https://twitter.com/intent/follow?screen_name=encodeclub" target="_blank" rel="noopener noreferrer">
+              <a href="#" target="_blank" rel="noopener noreferrer">
                 <button
                   className={`task-button ml-auto bg-blue-500 text-white font-semibold py-2 px-4 rounded 
                     ${
@@ -229,9 +229,9 @@ const Quest8: React.FC = () => {
 
           <div className="bg-gray-800 task-item mb-4 border-white-800 p-5 rounded-lg flex items-center text-lg font-semibold transition duration-300 ease-in-out transform hover:scale-105 hover:border-white-500 hover:shadow-md hover:border">
             <img src="../../img/twitter-black.svg" alt="Icon" className="w-auto h-7" />
-            <p className="ml-3">Like and Repost about Lorenzo Gasless Hackathon</p>
+            <p className="ml-3">Like and Repost about  Hackathon</p>
             <div className="ml-auto">
-              <a href="https://twitter.com/intent/retweet?tweet_id=1753526888033554477" target="_blank" rel="noopener noreferrer">
+              <a href="#" target="_blank" rel="noopener noreferrer">
                 <button
                   className={`task-button ml-auto bg-blue-500 text-white font-semibold py-2 px-4 rounded 
                     ${
